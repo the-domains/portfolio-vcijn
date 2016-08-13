@@ -1,0 +1,14 @@
+layout_spectrum: 0.4070386253297329
+typography_spectrum: 0.8427108931355178
+color:
+  brandStrength: 0.9414806393906474
+  lightness: 0.8869804767891765
+  saturation: 0.475040573393926
+  rhythmicContrast: 0.15430786786600947
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Portfolio
